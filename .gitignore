@@ -1,4 +1,12 @@
+*.Rproj
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+A1_peaklist.txt
+A1_speclist.txt
+A1/peaklists/*
+A1/annotations.xml
+dipps-vignette_cache/*
+dipps-vignette_files/*
