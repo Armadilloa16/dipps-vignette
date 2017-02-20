@@ -1,0 +1,1 @@
+The compiled html can be served directly [here](https://rawgit.com/Armadilloa16/dipps-vignette/master/dipps-vignette.html)
